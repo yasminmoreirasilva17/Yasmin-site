@@ -9,3 +9,12 @@ header {
     padding: 20px;
     font-size: 32px;;
 }
+
+
+section{
+    background: rgb(253, 230, 119, 0.44);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
