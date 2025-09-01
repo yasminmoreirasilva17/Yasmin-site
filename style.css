@@ -1,7 +1,8 @@
 body {
     color:brown;
     background:lightyellow;
-    margin: 0px
+    margin: 0px;
+    font-family: "Playfair Display", sans-serif;
 }
 
 header {
@@ -17,4 +18,8 @@ section{
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
 }
