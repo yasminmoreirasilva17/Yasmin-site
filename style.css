@@ -31,27 +31,6 @@ h1 {
 p {
     font-size: 20px;
 }
-img{
-    
-}
-
-.categoria-videos {
-    display: flex;
-    overflow-x: auto;
-    gap: 40px;
-}
-
-.categoria{
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-.categoria-videos img {
-    opacity: 1.0;
+img {
     height: 200px;
-}
-
-.categoria-videos img: hover{
-    opacity: 1,0;
-    border: 3px solid white;
 }
